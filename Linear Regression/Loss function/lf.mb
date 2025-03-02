@@ -1,0 +1,3 @@
+Loss function
+L=Ni=1∑N(yi − y^i)2
+ 
