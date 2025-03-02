@@ -1,0 +1,2 @@
+Least Squares Method (OLS)
+w=(X TX)−1X Ty
